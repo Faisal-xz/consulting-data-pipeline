@@ -1,0 +1,11 @@
+OrderID,Customer,Category,Amount,Month,Employee
+1001,Ahmed,Electronics,2500,January,Ali
+1002,Sara,Furniture,1800,January,Fahad
+1003,Ahmed,Electronics,3200,February,Ali
+1004,Khalid,Office Supplies,600,February,Omar
+1005,Sara,Electronics,2800,March,Fahad
+1006,Reem,Furniture,2200,March,Omar
+1007,Khalid,Electronics,1500,April,Ali
+1008,Ahmed,Office Supplies,700,April,Fahad
+1009,Reem,Electronics,3100,May,Omar
+1010,Sara,Furniture,2600,May,Ali
