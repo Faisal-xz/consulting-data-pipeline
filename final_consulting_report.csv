@@ -1,0 +1,501 @@
+order_id,order_date,order_year,order_month,month_num,customer_id,client_name,sector,account_manager,service_type,city,payment_id,amount_sar,amount_audit_flag,payment_status
+ORD-1001,2026-06-07,2026,June,6,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5001,26000.00,Verified,Paid
+ORD-1002,2026-09-15,2026,September,9,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5002,27000.00,Verified,Pending
+ORD-1003,2026-08-02,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5003,28000.00,Verified,Cancelled
+ORD-1004,2026-10-22,2026,October,10,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5004,29000.00,Verified,Paid
+ORD-1005,2026-08-20,2026,August,8,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5005,30000.00,Verified,Paid
+ORD-1006,2026-10-01,2026,October,10,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5006,31000.00,Verified,Pending
+ORD-1007,2026-03-15,2026,March,3,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5007,32000.00,Verified,Cancelled
+ORD-1008,2026-05-28,2026,May,5,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5008,33000.00,Verified,Paid
+ORD-1009,2026-08-07,2026,August,8,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5009,34000.00,Verified,Paid
+ORD-1010,2026-02-19,2026,February,2,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5010,35000.00,Verified,Pending
+ORD-1011,2026-07-13,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5011,36000.00,Verified,Cancelled
+ORD-1012,2026-08-06,2026,August,8,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5012,37000.00,Verified,Paid
+ORD-1013,2026-07-29,2026,July,7,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5013,38000.00,Verified,Paid
+ORD-1014,2026-04-02,2026,April,4,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5014,39000.00,Verified,Pending
+ORD-1015,2026-05-11,2026,May,5,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5015,40000.00,Verified,Cancelled
+ORD-1016,2026-03-19,2026,March,3,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5016,41000.00,Verified,Paid
+ORD-1017,2026-10-22,2026,October,10,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5017,42000.00,Verified,Paid
+ORD-1018,2026-02-11,2026,February,2,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5018,43000.00,Verified,Pending
+ORD-1019,2026-08-12,2026,August,8,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5019,0.00,"Missing Amount",Cancelled
+ORD-1020,2026-04-04,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5020,45000.00,Verified,Paid
+ORD-1021,2026-04-06,2026,April,4,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5021,46000.00,Verified,Paid
+ORD-1022,2026-07-16,2026,July,7,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5022,47000.00,Verified,Pending
+ORD-1023,2026-04-07,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5023,48000.00,Verified,Cancelled
+ORD-1024,2026-07-12,2026,July,7,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5024,49000.00,Verified,Paid
+ORD-1025,2026-03-15,2026,March,3,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5025,50000.00,Verified,Paid
+ORD-1026,2026-04-01,2026,April,4,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5026,51000.00,Verified,Pending
+ORD-1027,2026-08-19,2026,August,8,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5027,52000.00,Verified,Cancelled
+ORD-1028,2026-10-09,2026,October,10,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5028,53000.00,Verified,Paid
+ORD-1029,2026-04-28,2026,April,4,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5029,54000.00,Verified,Paid
+ORD-1030,2026-02-11,2026,February,2,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5030,55000.00,Verified,Pending
+ORD-1031,2026-06-03,2026,June,6,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5031,56000.00,Verified,Cancelled
+ORD-1032,2026-02-16,2026,February,2,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5032,57000.00,Verified,Paid
+ORD-1033,2026-03-11,2026,March,3,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"HR Restructuring",Dammam,PAY-5033,58000.00,Verified,Paid
+ORD-1034,2026-07-29,2026,July,7,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5034,59000.00,Verified,Pending
+ORD-1035,2026-08-29,2026,August,8,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5035,60000.00,Verified,Cancelled
+ORD-1036,2026-09-28,2026,September,9,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5036,61000.00,Verified,Paid
+ORD-1037,2026-02-04,2026,February,2,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5037,62000.00,Verified,Paid
+ORD-1038,2026-09-17,2026,September,9,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5038,0.00,"Missing Amount",Pending
+ORD-1039,2026-10-23,2026,October,10,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5039,64000.00,Verified,Cancelled
+ORD-1040,2026-04-08,2026,April,4,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5040,25000.00,Verified,Paid
+ORD-1041,2026-07-23,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5041,26000.00,Verified,Paid
+ORD-1042,2026-05-02,2026,May,5,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5042,27000.00,Verified,Pending
+ORD-1043,2026-10-26,2026,October,10,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5043,28000.00,Verified,Cancelled
+ORD-1044,2026-08-15,2026,August,8,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5044,29000.00,Verified,Paid
+ORD-1045,2026-08-27,2026,August,8,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5045,30000.00,Verified,Paid
+ORD-1046,2026-08-02,2026,August,8,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5046,31000.00,Verified,Pending
+ORD-1047,2026-02-20,2026,February,2,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5047,32000.00,Verified,Cancelled
+ORD-1048,2026-08-01,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5048,33000.00,Verified,Paid
+ORD-1049,2026-01-12,2026,January,1,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5049,34000.00,Verified,Paid
+ORD-1050,2026-01-22,2026,January,1,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5050,35000.00,Verified,Pending
+ORD-1051,2026-03-13,2026,March,3,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5051,36000.00,Verified,Cancelled
+ORD-1052,2026-10-20,2026,October,10,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5052,37000.00,Verified,Paid
+ORD-1053,2026-02-20,2026,February,2,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5053,38000.00,Verified,Paid
+ORD-1054,2026-10-01,2026,October,10,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5054,39000.00,Verified,Pending
+ORD-1055,2026-01-18,2026,January,1,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5055,40000.00,Verified,Cancelled
+ORD-1056,2026-06-13,2026,June,6,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5056,41000.00,Verified,Paid
+ORD-1057,2026-06-18,2026,June,6,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5057,0.00,"Missing Amount",Paid
+ORD-1058,2026-02-22,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5058,43000.00,Verified,Pending
+ORD-1059,2026-02-24,2026,February,2,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5059,44000.00,Verified,Cancelled
+ORD-1060,2026-04-26,2026,April,4,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5060,45000.00,Verified,Paid
+ORD-1061,2026-04-27,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5061,46000.00,Verified,Paid
+ORD-1062,2026-08-21,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5062,47000.00,Verified,Pending
+ORD-1063,2026-08-04,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5063,48000.00,Verified,Cancelled
+ORD-1064,2026-03-22,2026,March,3,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5064,49000.00,Verified,Paid
+ORD-1065,2026-02-23,2026,February,2,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5065,50000.00,Verified,Paid
+ORD-1066,2026-01-29,2026,January,1,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Corporate Governance",Riyadh,PAY-5066,51000.00,Verified,Pending
+ORD-1067,2026-10-07,2026,October,10,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5067,52000.00,Verified,Cancelled
+ORD-1068,2026-04-22,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5068,53000.00,Verified,Paid
+ORD-1069,2026-01-19,2026,January,1,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5069,54000.00,Verified,Paid
+ORD-1070,2026-03-01,2026,March,3,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5070,55000.00,Verified,Pending
+ORD-1071,2026-08-31,2026,August,8,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5071,56000.00,Verified,Cancelled
+ORD-1072,2026-05-14,2026,May,5,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5072,57000.00,Verified,Paid
+ORD-1073,2026-08-27,2026,August,8,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5073,58000.00,Verified,Paid
+ORD-1074,2026-07-13,2026,July,7,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5074,59000.00,Verified,Pending
+ORD-1075,2026-09-09,2026,September,9,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5075,60000.00,Verified,Cancelled
+ORD-1076,2026-03-19,2026,March,3,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5076,0.00,"Missing Amount",Paid
+ORD-1077,2026-08-20,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5077,62000.00,Verified,Paid
+ORD-1078,2026-01-27,2026,January,1,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5078,63000.00,Verified,Pending
+ORD-1079,2026-02-05,2026,February,2,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5079,64000.00,Verified,Cancelled
+ORD-1080,2026-04-11,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5080,25000.00,Verified,Paid
+ORD-1081,2026-04-05,2026,April,4,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5081,26000.00,Verified,Paid
+ORD-1082,2026-06-22,2026,June,6,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5082,27000.00,Verified,Pending
+ORD-1083,2026-10-07,2026,October,10,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5083,28000.00,Verified,Cancelled
+ORD-1084,2026-10-05,2026,October,10,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5084,29000.00,Verified,Paid
+ORD-1085,2026-09-09,2026,September,9,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5085,30000.00,Verified,Paid
+ORD-1086,2026-05-04,2026,May,5,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5086,31000.00,Verified,Pending
+ORD-1087,2026-06-13,2026,June,6,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5087,32000.00,Verified,Cancelled
+ORD-1088,2026-05-26,2026,May,5,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5088,33000.00,Verified,Paid
+ORD-1089,2026-08-26,2026,August,8,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5089,34000.00,Verified,Paid
+ORD-1090,2026-05-30,2026,May,5,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5090,35000.00,Verified,Pending
+ORD-1091,2026-02-07,2026,February,2,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5091,36000.00,Verified,Cancelled
+ORD-1092,2026-02-08,2026,February,2,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5092,37000.00,Verified,Paid
+ORD-1093,2026-03-21,2026,March,3,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5093,38000.00,Verified,Paid
+ORD-1094,2026-10-10,2026,October,10,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5094,39000.00,Verified,Pending
+ORD-1095,2026-09-29,2026,September,9,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5095,0.00,"Missing Amount",Cancelled
+ORD-1096,2026-08-01,2026,August,8,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5096,41000.00,Verified,Paid
+ORD-1097,2026-09-07,2026,September,9,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5097,42000.00,Verified,Paid
+ORD-1098,2026-01-07,2026,January,1,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5098,43000.00,Verified,Pending
+ORD-1099,2026-07-04,2026,July,7,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Family Business Advisory",Dammam,PAY-5099,44000.00,Verified,Cancelled
+ORD-1100,2026-01-06,2026,January,1,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5100,45000.00,Verified,Paid
+ORD-1101,2026-03-15,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5101,46000.00,Verified,Paid
+ORD-1102,2026-02-18,2026,February,2,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5102,47000.00,Verified,Pending
+ORD-1103,2026-01-24,2026,January,1,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5103,48000.00,Verified,Cancelled
+ORD-1104,2026-09-27,2026,September,9,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5104,49000.00,Verified,Paid
+ORD-1105,2026-03-22,2026,March,3,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5105,50000.00,Verified,Paid
+ORD-1106,2026-07-12,2026,July,7,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5106,51000.00,Verified,Pending
+ORD-1107,2026-05-02,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5107,52000.00,Verified,Cancelled
+ORD-1108,2026-02-01,2026,February,2,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5108,53000.00,Verified,Paid
+ORD-1109,2026-04-04,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5109,54000.00,Verified,Paid
+ORD-1110,2026-03-13,2026,March,3,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5110,55000.00,Verified,Pending
+ORD-1111,2026-03-18,2026,March,3,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5111,56000.00,Verified,Cancelled
+ORD-1112,2026-06-17,2026,June,6,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5112,57000.00,Verified,Paid
+ORD-1113,2026-01-11,2026,January,1,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5113,58000.00,Verified,Paid
+ORD-1114,2026-05-29,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5114,0.00,"Missing Amount",Pending
+ORD-1115,2026-04-22,2026,April,4,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5115,60000.00,Verified,Cancelled
+ORD-1116,2026-04-21,2026,April,4,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5116,61000.00,Verified,Paid
+ORD-1117,2026-08-07,2026,August,8,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5117,62000.00,Verified,Paid
+ORD-1118,2026-06-12,2026,June,6,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5118,63000.00,Verified,Pending
+ORD-1119,2026-06-06,2026,June,6,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5119,64000.00,Verified,Cancelled
+ORD-1120,2026-10-24,2026,October,10,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5120,25000.00,Verified,Paid
+ORD-1121,2026-04-21,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5121,26000.00,Verified,Paid
+ORD-1122,2026-09-21,2026,September,9,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5122,27000.00,Verified,Pending
+ORD-1123,2026-03-27,2026,March,3,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5123,28000.00,Verified,Cancelled
+ORD-1124,2026-08-25,2026,August,8,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5124,29000.00,Verified,Paid
+ORD-1125,2026-01-29,2026,January,1,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5125,30000.00,Verified,Paid
+ORD-1126,2026-02-02,2026,February,2,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5126,31000.00,Verified,Pending
+ORD-1127,2026-03-18,2026,March,3,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5127,32000.00,Verified,Cancelled
+ORD-1128,2026-10-11,2026,October,10,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5128,33000.00,Verified,Paid
+ORD-1129,2026-10-17,2026,October,10,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5129,34000.00,Verified,Paid
+ORD-1130,2026-10-24,2026,October,10,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5130,35000.00,Verified,Pending
+ORD-1131,2026-01-15,2026,January,1,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5131,36000.00,Verified,Cancelled
+ORD-1132,2026-03-24,2026,March,3,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Performance Improvement",Riyadh,PAY-5132,37000.00,Verified,Paid
+ORD-1133,2026-03-11,2026,March,3,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5133,0.00,"Missing Amount",Paid
+ORD-1134,2026-04-12,2026,April,4,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5134,39000.00,Verified,Pending
+ORD-1135,2026-10-25,2026,October,10,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5135,40000.00,Verified,Cancelled
+ORD-1136,2026-10-09,2026,October,10,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5136,41000.00,Verified,Paid
+ORD-1137,2026-08-03,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5137,42000.00,Verified,Paid
+ORD-1138,2026-08-20,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5138,43000.00,Verified,Pending
+ORD-1139,2026-07-30,2026,July,7,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5139,44000.00,Verified,Cancelled
+ORD-1140,2026-03-01,2026,March,3,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5140,45000.00,Verified,Paid
+ORD-1141,2026-09-25,2026,September,9,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5141,46000.00,Verified,Paid
+ORD-1142,2026-09-14,2026,September,9,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5142,47000.00,Verified,Pending
+ORD-1143,2026-06-30,2026,June,6,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5143,48000.00,Verified,Cancelled
+ORD-1144,2026-05-13,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5144,49000.00,Verified,Paid
+ORD-1145,2026-05-02,2026,May,5,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5145,50000.00,Verified,Paid
+ORD-1146,2026-07-28,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5146,51000.00,Verified,Pending
+ORD-1147,2026-03-19,2026,March,3,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5147,52000.00,Verified,Cancelled
+ORD-1148,2026-03-06,2026,March,3,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5148,53000.00,Verified,Paid
+ORD-1149,2026-03-28,2026,March,3,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5149,54000.00,Verified,Paid
+ORD-1150,2026-08-31,2026,August,8,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5150,55000.00,Verified,Pending
+ORD-1151,2026-02-22,2026,February,2,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5151,56000.00,Verified,Cancelled
+ORD-1152,2026-05-17,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5152,0.00,"Missing Amount",Paid
+ORD-1153,2026-08-13,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5153,58000.00,Verified,Paid
+ORD-1154,2026-04-22,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5154,59000.00,Verified,Pending
+ORD-1155,2026-07-02,2026,July,7,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5155,60000.00,Verified,Cancelled
+ORD-1156,2026-10-07,2026,October,10,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5156,61000.00,Verified,Paid
+ORD-1157,2026-09-09,2026,September,9,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5157,62000.00,Verified,Paid
+ORD-1158,2026-04-28,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5158,63000.00,Verified,Pending
+ORD-1159,2026-05-12,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5159,64000.00,Verified,Cancelled
+ORD-1160,2026-01-06,2026,January,1,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5160,25000.00,Verified,Paid
+ORD-1161,2026-08-21,2026,August,8,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5161,26000.00,Verified,Paid
+ORD-1162,2026-09-04,2026,September,9,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5162,27000.00,Verified,Pending
+ORD-1163,2026-08-25,2026,August,8,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5163,28000.00,Verified,Cancelled
+ORD-1164,2026-05-24,2026,May,5,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5164,29000.00,Verified,Paid
+ORD-1165,2026-01-09,2026,January,1,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Strategy Consulting",Dammam,PAY-5165,30000.00,Verified,Paid
+ORD-1166,2026-07-28,2026,July,7,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5166,31000.00,Verified,Pending
+ORD-1167,2026-05-01,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5167,32000.00,Verified,Cancelled
+ORD-1168,2026-10-01,2026,October,10,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5168,33000.00,Verified,Paid
+ORD-1169,2026-04-19,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5169,34000.00,Verified,Paid
+ORD-1170,2026-01-20,2026,January,1,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5170,35000.00,Verified,Pending
+ORD-1171,2026-03-16,2026,March,3,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5171,0.00,"Missing Amount",Cancelled
+ORD-1172,2026-01-13,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5172,37000.00,Verified,Paid
+ORD-1173,2026-05-21,2026,May,5,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5173,38000.00,Verified,Paid
+ORD-1174,2026-03-05,2026,March,3,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5174,39000.00,Verified,Pending
+ORD-1175,2026-07-14,2026,July,7,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5175,40000.00,Verified,Cancelled
+ORD-1176,2026-07-03,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5176,41000.00,Verified,Paid
+ORD-1177,2026-02-03,2026,February,2,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5177,42000.00,Verified,Paid
+ORD-1178,2026-08-06,2026,August,8,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5178,43000.00,Verified,Pending
+ORD-1179,2026-03-28,2026,March,3,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5179,44000.00,Verified,Cancelled
+ORD-1180,2026-03-20,2026,March,3,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5180,45000.00,Verified,Paid
+ORD-1181,2026-05-16,2026,May,5,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5181,46000.00,Verified,Paid
+ORD-1182,2026-05-23,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5182,47000.00,Verified,Pending
+ORD-1183,2026-01-07,2026,January,1,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5183,48000.00,Verified,Cancelled
+ORD-1184,2026-07-23,2026,July,7,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5184,49000.00,Verified,Paid
+ORD-1185,2026-04-08,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5185,50000.00,Verified,Paid
+ORD-1186,2026-06-29,2026,June,6,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5186,51000.00,Verified,Pending
+ORD-1187,2026-01-05,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5187,52000.00,Verified,Cancelled
+ORD-1188,2026-03-23,2026,March,3,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5188,53000.00,Verified,Paid
+ORD-1189,2026-04-07,2026,April,4,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5189,54000.00,Verified,Paid
+ORD-1190,2026-08-24,2026,August,8,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5190,0.00,"Missing Amount",Pending
+ORD-1191,2026-10-17,2026,October,10,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5191,56000.00,Verified,Cancelled
+ORD-1192,2026-05-23,2026,May,5,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5192,57000.00,Verified,Paid
+ORD-1193,2026-05-24,2026,May,5,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5193,58000.00,Verified,Paid
+ORD-1194,2026-10-16,2026,October,10,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5194,59000.00,Verified,Pending
+ORD-1195,2026-04-25,2026,April,4,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5195,60000.00,Verified,Cancelled
+ORD-1196,2026-01-05,2026,January,1,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5196,61000.00,Verified,Paid
+ORD-1197,2026-10-09,2026,October,10,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5197,62000.00,Verified,Paid
+ORD-1198,2026-07-14,2026,July,7,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"HR Restructuring",Riyadh,PAY-5198,63000.00,Verified,Pending
+ORD-1199,2026-05-09,2026,May,5,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5199,64000.00,Verified,Cancelled
+ORD-1200,2026-02-28,2026,February,2,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5200,25000.00,Verified,Paid
+ORD-1201,2026-07-27,2026,July,7,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5201,26000.00,Verified,Paid
+ORD-1202,2026-09-19,2026,September,9,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5202,27000.00,Verified,Pending
+ORD-1203,2026-03-25,2026,March,3,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5203,28000.00,Verified,Cancelled
+ORD-1204,2026-08-21,2026,August,8,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5204,29000.00,Verified,Paid
+ORD-1205,2026-01-13,2026,January,1,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5205,30000.00,Verified,Paid
+ORD-1206,2026-09-21,2026,September,9,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5206,31000.00,Verified,Pending
+ORD-1207,2026-03-22,2026,March,3,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5207,32000.00,Verified,Cancelled
+ORD-1208,2026-08-02,2026,August,8,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5208,33000.00,Verified,Paid
+ORD-1209,2026-08-15,2026,August,8,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5209,0.00,"Missing Amount",Paid
+ORD-1210,2026-07-11,2026,July,7,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5210,35000.00,Verified,Pending
+ORD-1211,2026-10-05,2026,October,10,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5211,36000.00,Verified,Cancelled
+ORD-1212,2026-08-02,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5212,37000.00,Verified,Paid
+ORD-1213,2026-08-22,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5213,38000.00,Verified,Paid
+ORD-1214,2026-08-18,2026,August,8,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5214,39000.00,Verified,Pending
+ORD-1215,2026-05-25,2026,May,5,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5215,40000.00,Verified,Cancelled
+ORD-1216,2026-02-05,2026,February,2,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5216,41000.00,Verified,Paid
+ORD-1217,2026-02-13,2026,February,2,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5217,42000.00,Verified,Paid
+ORD-1218,2026-04-22,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5218,43000.00,Verified,Pending
+ORD-1219,2026-05-07,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5219,44000.00,Verified,Cancelled
+ORD-1220,2026-10-25,2026,October,10,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5220,45000.00,Verified,Paid
+ORD-1221,2026-07-30,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5221,46000.00,Verified,Paid
+ORD-1222,2026-06-07,2026,June,6,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5222,47000.00,Verified,Pending
+ORD-1223,2026-06-08,2026,June,6,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5223,48000.00,Verified,Cancelled
+ORD-1224,2026-01-18,2026,January,1,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5224,49000.00,Verified,Paid
+ORD-1225,2026-08-02,2026,August,8,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5225,50000.00,Verified,Paid
+ORD-1226,2026-04-24,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5226,51000.00,Verified,Pending
+ORD-1227,2026-08-17,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5227,52000.00,Verified,Cancelled
+ORD-1228,2026-07-19,2026,July,7,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5228,0.00,"Missing Amount",Paid
+ORD-1229,2026-01-14,2026,January,1,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5229,54000.00,Verified,Paid
+ORD-1230,2026-03-10,2026,March,3,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5230,55000.00,Verified,Pending
+ORD-1231,2026-01-01,2026,January,1,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Corporate Governance",Dammam,PAY-5231,56000.00,Verified,Cancelled
+ORD-1232,2026-04-11,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5232,57000.00,Verified,Paid
+ORD-1233,2026-07-18,2026,July,7,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5233,58000.00,Verified,Paid
+ORD-1234,2026-04-03,2026,April,4,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5234,59000.00,Verified,Pending
+ORD-1235,2026-06-16,2026,June,6,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5235,60000.00,Verified,Cancelled
+ORD-1236,2026-09-15,2026,September,9,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5236,61000.00,Verified,Paid
+ORD-1237,2026-07-04,2026,July,7,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5237,62000.00,Verified,Paid
+ORD-1238,2026-05-31,2026,May,5,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5238,63000.00,Verified,Pending
+ORD-1239,2026-07-18,2026,July,7,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5239,64000.00,Verified,Cancelled
+ORD-1240,2026-08-29,2026,August,8,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5240,25000.00,Verified,Paid
+ORD-1241,2026-01-07,2026,January,1,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5241,26000.00,Verified,Paid
+ORD-1242,2026-08-02,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5242,27000.00,Verified,Pending
+ORD-1243,2026-05-26,2026,May,5,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5243,28000.00,Verified,Cancelled
+ORD-1244,2026-03-31,2026,March,3,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5244,29000.00,Verified,Paid
+ORD-1245,2026-01-12,2026,January,1,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5245,30000.00,Verified,Paid
+ORD-1246,2026-03-31,2026,March,3,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5246,31000.00,Verified,Pending
+ORD-1247,2026-04-23,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5247,0.00,"Missing Amount",Cancelled
+ORD-1248,2026-10-21,2026,October,10,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5248,33000.00,Verified,Paid
+ORD-1249,2026-08-19,2026,August,8,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5249,34000.00,Verified,Paid
+ORD-1250,2026-09-28,2026,September,9,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5250,35000.00,Verified,Pending
+ORD-1251,2026-03-01,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5251,36000.00,Verified,Cancelled
+ORD-1252,2026-03-31,2026,March,3,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5252,37000.00,Verified,Paid
+ORD-1253,2026-09-24,2026,September,9,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5253,38000.00,Verified,Paid
+ORD-1254,2026-06-16,2026,June,6,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5254,39000.00,Verified,Pending
+ORD-1255,2026-02-02,2026,February,2,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5255,40000.00,Verified,Cancelled
+ORD-1256,2026-09-19,2026,September,9,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5256,41000.00,Verified,Paid
+ORD-1257,2026-01-13,2026,January,1,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5257,42000.00,Verified,Paid
+ORD-1258,2026-06-26,2026,June,6,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5258,43000.00,Verified,Pending
+ORD-1259,2026-09-05,2026,September,9,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5259,44000.00,Verified,Cancelled
+ORD-1260,2026-04-15,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5260,45000.00,Verified,Paid
+ORD-1261,2026-03-24,2026,March,3,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5261,46000.00,Verified,Paid
+ORD-1262,2026-04-10,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5262,47000.00,Verified,Pending
+ORD-1263,2026-09-07,2026,September,9,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5263,48000.00,Verified,Cancelled
+ORD-1264,2026-02-19,2026,February,2,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Family Business Advisory",Riyadh,PAY-5264,49000.00,Verified,Paid
+ORD-1265,2026-04-07,2026,April,4,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5265,50000.00,Verified,Paid
+ORD-1266,2026-02-07,2026,February,2,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5266,0.00,"Missing Amount",Pending
+ORD-1267,2026-07-14,2026,July,7,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5267,52000.00,Verified,Cancelled
+ORD-1268,2026-09-20,2026,September,9,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5268,53000.00,Verified,Paid
+ORD-1269,2026-05-09,2026,May,5,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5269,54000.00,Verified,Paid
+ORD-1270,2026-06-04,2026,June,6,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5270,55000.00,Verified,Pending
+ORD-1271,2026-03-30,2026,March,3,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5271,56000.00,Verified,Cancelled
+ORD-1272,2026-10-05,2026,October,10,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5272,57000.00,Verified,Paid
+ORD-1273,2026-08-10,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5273,58000.00,Verified,Paid
+ORD-1274,2026-10-03,2026,October,10,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5274,59000.00,Verified,Pending
+ORD-1275,2026-04-25,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5275,60000.00,Verified,Cancelled
+ORD-1276,2026-02-13,2026,February,2,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5276,61000.00,Verified,Paid
+ORD-1277,2026-06-24,2026,June,6,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5277,62000.00,Verified,Paid
+ORD-1278,2026-05-25,2026,May,5,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5278,63000.00,Verified,Pending
+ORD-1279,2026-07-16,2026,July,7,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5279,64000.00,Verified,Cancelled
+ORD-1280,2026-09-09,2026,September,9,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5280,25000.00,Verified,Paid
+ORD-1281,2026-03-09,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5281,26000.00,Verified,Paid
+ORD-1282,2026-07-02,2026,July,7,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5282,27000.00,Verified,Pending
+ORD-1283,2026-04-22,2026,April,4,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5283,28000.00,Verified,Cancelled
+ORD-1284,2026-01-10,2026,January,1,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5284,29000.00,Verified,Paid
+ORD-1285,2026-01-13,2026,January,1,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5285,0.00,"Missing Amount",Paid
+ORD-1286,2026-02-03,2026,February,2,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5286,31000.00,Verified,Pending
+ORD-1287,2026-05-10,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5287,32000.00,Verified,Cancelled
+ORD-1288,2026-09-07,2026,September,9,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5288,33000.00,Verified,Paid
+ORD-1289,2026-09-14,2026,September,9,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5289,34000.00,Verified,Paid
+ORD-1290,2026-08-25,2026,August,8,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5290,35000.00,Verified,Pending
+ORD-1291,2026-04-22,2026,April,4,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5291,36000.00,Verified,Cancelled
+ORD-1292,2026-05-30,2026,May,5,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5292,37000.00,Verified,Paid
+ORD-1293,2026-04-21,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5293,38000.00,Verified,Paid
+ORD-1294,2026-04-17,2026,April,4,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5294,39000.00,Verified,Pending
+ORD-1295,2026-07-19,2026,July,7,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5295,40000.00,Verified,Cancelled
+ORD-1296,2026-03-21,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5296,41000.00,Verified,Paid
+ORD-1297,2026-04-07,2026,April,4,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Performance Improvement",Dammam,PAY-5297,42000.00,Verified,Paid
+ORD-1298,2026-09-01,2026,September,9,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5298,43000.00,Verified,Pending
+ORD-1299,2026-01-30,2026,January,1,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5299,44000.00,Verified,Cancelled
+ORD-1300,2026-01-16,2026,January,1,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5300,45000.00,Verified,Paid
+ORD-1301,2026-10-16,2026,October,10,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5301,46000.00,Verified,Paid
+ORD-1302,2026-07-17,2026,July,7,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5302,47000.00,Verified,Pending
+ORD-1303,2026-05-02,2026,May,5,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5303,48000.00,Verified,Cancelled
+ORD-1304,2026-01-14,2026,January,1,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5304,0.00,"Missing Amount",Paid
+ORD-1305,2026-01-07,2026,January,1,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5305,50000.00,Verified,Paid
+ORD-1306,2026-10-16,2026,October,10,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5306,51000.00,Verified,Pending
+ORD-1307,2026-08-13,2026,August,8,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5307,52000.00,Verified,Cancelled
+ORD-1308,2026-09-13,2026,September,9,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5308,53000.00,Verified,Paid
+ORD-1309,2026-01-06,2026,January,1,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5309,54000.00,Verified,Paid
+ORD-1310,2026-06-10,2026,June,6,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5310,55000.00,Verified,Pending
+ORD-1311,2026-07-07,2026,July,7,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5311,56000.00,Verified,Cancelled
+ORD-1312,2026-06-06,2026,June,6,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5312,57000.00,Verified,Paid
+ORD-1313,2026-08-09,2026,August,8,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5313,58000.00,Verified,Paid
+ORD-1314,2026-02-02,2026,February,2,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5314,59000.00,Verified,Pending
+ORD-1315,2026-04-12,2026,April,4,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5315,60000.00,Verified,Cancelled
+ORD-1316,2026-04-19,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5316,61000.00,Verified,Paid
+ORD-1317,2026-08-28,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5317,62000.00,Verified,Paid
+ORD-1318,2026-09-30,2026,September,9,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5318,63000.00,Verified,Pending
+ORD-1319,2026-02-11,2026,February,2,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5319,64000.00,Verified,Cancelled
+ORD-1320,2026-10-17,2026,October,10,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5320,25000.00,Verified,Paid
+ORD-1321,2026-05-04,2026,May,5,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5321,26000.00,Verified,Paid
+ORD-1322,2026-02-19,2026,February,2,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5322,27000.00,Verified,Pending
+ORD-1323,2026-06-26,2026,June,6,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5323,0.00,"Missing Amount",Cancelled
+ORD-1324,2026-05-15,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5324,29000.00,Verified,Paid
+ORD-1325,2026-05-23,2026,May,5,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5325,30000.00,Verified,Paid
+ORD-1326,2026-01-08,2026,January,1,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5326,31000.00,Verified,Pending
+ORD-1327,2026-07-29,2026,July,7,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5327,32000.00,Verified,Cancelled
+ORD-1328,2026-05-09,2026,May,5,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5328,33000.00,Verified,Paid
+ORD-1329,2026-01-12,2026,January,1,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5329,34000.00,Verified,Paid
+ORD-1330,2026-09-28,2026,September,9,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Strategy Consulting",Riyadh,PAY-5330,35000.00,Verified,Pending
+ORD-1331,2026-05-02,2026,May,5,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5331,36000.00,Verified,Cancelled
+ORD-1332,2026-04-06,2026,April,4,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5332,37000.00,Verified,Paid
+ORD-1333,2026-04-21,2026,April,4,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5333,38000.00,Verified,Paid
+ORD-1334,2026-09-24,2026,September,9,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5334,39000.00,Verified,Pending
+ORD-1335,2026-04-14,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5335,40000.00,Verified,Cancelled
+ORD-1336,2026-01-18,2026,January,1,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5336,41000.00,Verified,Paid
+ORD-1337,2026-03-18,2026,March,3,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5337,42000.00,Verified,Paid
+ORD-1338,2026-01-29,2026,January,1,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5338,43000.00,Verified,Pending
+ORD-1339,2026-08-04,2026,August,8,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5339,44000.00,Verified,Cancelled
+ORD-1340,2026-04-01,2026,April,4,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5340,45000.00,Verified,Paid
+ORD-1341,2026-04-15,2026,April,4,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5341,46000.00,Verified,Paid
+ORD-1342,2026-09-12,2026,September,9,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5342,0.00,"Missing Amount",Pending
+ORD-1343,2026-02-25,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5343,48000.00,Verified,Cancelled
+ORD-1344,2026-04-28,2026,April,4,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5344,49000.00,Verified,Paid
+ORD-1345,2026-04-30,2026,April,4,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5345,50000.00,Verified,Paid
+ORD-1346,2026-09-03,2026,September,9,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5346,51000.00,Verified,Pending
+ORD-1347,2026-09-24,2026,September,9,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5347,52000.00,Verified,Cancelled
+ORD-1348,2026-10-26,2026,October,10,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5348,53000.00,Verified,Paid
+ORD-1349,2026-04-05,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5349,54000.00,Verified,Paid
+ORD-1350,2026-06-23,2026,June,6,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5350,55000.00,Verified,Pending
+ORD-1351,2026-10-15,2026,October,10,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5351,56000.00,Verified,Cancelled
+ORD-1352,2026-01-14,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5352,57000.00,Verified,Paid
+ORD-1353,2026-04-17,2026,April,4,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5353,58000.00,Verified,Paid
+ORD-1354,2026-07-12,2026,July,7,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5354,59000.00,Verified,Pending
+ORD-1355,2026-02-13,2026,February,2,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5355,60000.00,Verified,Cancelled
+ORD-1356,2026-08-29,2026,August,8,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5356,61000.00,Verified,Paid
+ORD-1357,2026-06-20,2026,June,6,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5357,62000.00,Verified,Paid
+ORD-1358,2026-05-11,2026,May,5,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5358,63000.00,Verified,Pending
+ORD-1359,2026-05-23,2026,May,5,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5359,64000.00,Verified,Cancelled
+ORD-1360,2026-01-22,2026,January,1,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5360,25000.00,Verified,Paid
+ORD-1361,2026-10-07,2026,October,10,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5361,0.00,"Missing Amount",Paid
+ORD-1362,2026-05-12,2026,May,5,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5362,27000.00,Verified,Pending
+ORD-1363,2026-05-03,2026,May,5,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"HR Restructuring",Dammam,PAY-5363,28000.00,Verified,Cancelled
+ORD-1364,2026-08-03,2026,August,8,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5364,29000.00,Verified,Paid
+ORD-1365,2026-04-16,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5365,30000.00,Verified,Paid
+ORD-1366,2026-07-03,2026,July,7,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5366,31000.00,Verified,Pending
+ORD-1367,2026-01-04,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5367,32000.00,Verified,Cancelled
+ORD-1368,2026-03-06,2026,March,3,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5368,33000.00,Verified,Paid
+ORD-1369,2026-01-14,2026,January,1,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5369,34000.00,Verified,Paid
+ORD-1370,2026-06-22,2026,June,6,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5370,35000.00,Verified,Pending
+ORD-1371,2026-08-10,2026,August,8,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5371,36000.00,Verified,Cancelled
+ORD-1372,2026-10-20,2026,October,10,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5372,37000.00,Verified,Paid
+ORD-1373,2026-07-18,2026,July,7,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5373,38000.00,Verified,Paid
+ORD-1374,2026-04-26,2026,April,4,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5374,39000.00,Verified,Pending
+ORD-1375,2026-10-07,2026,October,10,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5375,40000.00,Verified,Cancelled
+ORD-1376,2026-06-01,2026,June,6,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5376,41000.00,Verified,Paid
+ORD-1377,2026-08-06,2026,August,8,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5377,42000.00,Verified,Paid
+ORD-1378,2026-02-03,2026,February,2,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5378,43000.00,Verified,Pending
+ORD-1379,2026-04-27,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5379,44000.00,Verified,Cancelled
+ORD-1380,2026-07-01,2026,July,7,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5380,0.00,"Missing Amount",Paid
+ORD-1381,2026-09-14,2026,September,9,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5381,46000.00,Verified,Paid
+ORD-1382,2026-05-20,2026,May,5,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5382,47000.00,Verified,Pending
+ORD-1383,2026-08-16,2026,August,8,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5383,48000.00,Verified,Cancelled
+ORD-1384,2026-04-28,2026,April,4,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5384,49000.00,Verified,Paid
+ORD-1385,2026-07-24,2026,July,7,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5385,50000.00,Verified,Paid
+ORD-1386,2026-03-13,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5386,51000.00,Verified,Pending
+ORD-1387,2026-02-13,2026,February,2,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5387,52000.00,Verified,Cancelled
+ORD-1388,2026-01-02,2026,January,1,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5388,53000.00,Verified,Paid
+ORD-1389,2026-06-26,2026,June,6,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5389,54000.00,Verified,Paid
+ORD-1390,2026-10-06,2026,October,10,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5390,55000.00,Verified,Pending
+ORD-1391,2026-09-22,2026,September,9,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5391,56000.00,Verified,Cancelled
+ORD-1392,2026-07-04,2026,July,7,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5392,57000.00,Verified,Paid
+ORD-1393,2026-05-12,2026,May,5,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5393,58000.00,Verified,Paid
+ORD-1394,2026-04-12,2026,April,4,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5394,59000.00,Verified,Pending
+ORD-1395,2026-04-25,2026,April,4,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5395,60000.00,Verified,Cancelled
+ORD-1396,2026-09-27,2026,September,9,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Corporate Governance",Riyadh,PAY-5396,61000.00,Verified,Paid
+ORD-1397,2026-04-11,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5397,62000.00,Verified,Paid
+ORD-1398,2026-10-25,2026,October,10,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5398,63000.00,Verified,Pending
+ORD-1399,2026-10-12,2026,October,10,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5399,0.00,"Missing Amount",Cancelled
+ORD-1400,2026-08-18,2026,August,8,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5400,25000.00,Verified,Paid
+ORD-1401,2026-10-22,2026,October,10,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5401,26000.00,Verified,Paid
+ORD-1402,2026-07-04,2026,July,7,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5402,27000.00,Verified,Pending
+ORD-1403,2026-02-07,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5403,28000.00,Verified,Cancelled
+ORD-1404,2026-08-25,2026,August,8,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5404,29000.00,Verified,Paid
+ORD-1405,2026-06-20,2026,June,6,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5405,30000.00,Verified,Paid
+ORD-1406,2026-05-22,2026,May,5,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5406,31000.00,Verified,Pending
+ORD-1407,2026-07-15,2026,July,7,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5407,32000.00,Verified,Cancelled
+ORD-1408,2026-09-13,2026,September,9,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5408,33000.00,Verified,Paid
+ORD-1409,2026-03-31,2026,March,3,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5409,34000.00,Verified,Paid
+ORD-1410,2026-10-10,2026,October,10,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5410,35000.00,Verified,Pending
+ORD-1411,2026-08-30,2026,August,8,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5411,36000.00,Verified,Cancelled
+ORD-1412,2026-03-03,2026,March,3,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5412,37000.00,Verified,Paid
+ORD-1413,2026-07-03,2026,July,7,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5413,38000.00,Verified,Paid
+ORD-1414,2026-05-12,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5414,39000.00,Verified,Pending
+ORD-1415,2026-04-18,2026,April,4,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5415,40000.00,Verified,Cancelled
+ORD-1416,2026-05-23,2026,May,5,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5416,41000.00,Verified,Paid
+ORD-1417,2026-04-03,2026,April,4,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5417,42000.00,Verified,Paid
+ORD-1418,2026-02-02,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5418,0.00,"Missing Amount",Pending
+ORD-1419,2026-07-04,2026,July,7,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5419,44000.00,Verified,Cancelled
+ORD-1420,2026-08-13,2026,August,8,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5420,45000.00,Verified,Paid
+ORD-1421,2026-09-29,2026,September,9,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5421,46000.00,Verified,Paid
+ORD-1422,2026-03-24,2026,March,3,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5422,47000.00,Verified,Pending
+ORD-1423,2026-07-19,2026,July,7,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5423,48000.00,Verified,Cancelled
+ORD-1424,2026-05-30,2026,May,5,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5424,49000.00,Verified,Paid
+ORD-1425,2026-05-28,2026,May,5,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5425,50000.00,Verified,Paid
+ORD-1426,2026-10-18,2026,October,10,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5426,51000.00,Verified,Pending
+ORD-1427,2026-04-21,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5427,52000.00,Verified,Cancelled
+ORD-1428,2026-10-10,2026,October,10,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5428,53000.00,Verified,Paid
+ORD-1429,2026-06-27,2026,June,6,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Family Business Advisory",Dammam,PAY-5429,54000.00,Verified,Paid
+ORD-1430,2026-02-11,2026,February,2,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5430,55000.00,Verified,Pending
+ORD-1431,2026-10-02,2026,October,10,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5431,56000.00,Verified,Cancelled
+ORD-1432,2026-02-17,2026,February,2,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5432,57000.00,Verified,Paid
+ORD-1433,2026-01-13,2026,January,1,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5433,58000.00,Verified,Paid
+ORD-1434,2026-08-12,2026,August,8,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5434,59000.00,Verified,Pending
+ORD-1435,2026-06-28,2026,June,6,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5435,60000.00,Verified,Cancelled
+ORD-1436,2026-08-09,2026,August,8,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5436,61000.00,Verified,Paid
+ORD-1437,2026-09-25,2026,September,9,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5437,0.00,"Missing Amount",Paid
+ORD-1438,2026-03-18,2026,March,3,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5438,63000.00,Verified,Pending
+ORD-1439,2026-07-01,2026,July,7,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5439,64000.00,Verified,Cancelled
+ORD-1440,2026-03-18,2026,March,3,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5440,25000.00,Verified,Paid
+ORD-1441,2026-05-17,2026,May,5,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5441,26000.00,Verified,Paid
+ORD-1442,2026-06-02,2026,June,6,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5442,27000.00,Verified,Pending
+ORD-1443,2026-02-25,2026,February,2,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5443,28000.00,Verified,Cancelled
+ORD-1444,2026-05-01,2026,May,5,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5444,29000.00,Verified,Paid
+ORD-1445,2026-05-15,2026,May,5,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5445,30000.00,Verified,Paid
+ORD-1446,2026-01-12,2026,January,1,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5446,31000.00,Verified,Pending
+ORD-1447,2026-09-11,2026,September,9,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5447,32000.00,Verified,Cancelled
+ORD-1448,2026-02-05,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5448,33000.00,Verified,Paid
+ORD-1449,2026-01-15,2026,January,1,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5449,34000.00,Verified,Paid
+ORD-1450,2026-09-26,2026,September,9,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5450,35000.00,Verified,Pending
+ORD-1451,2026-04-07,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5451,36000.00,Verified,Cancelled
+ORD-1452,2026-10-05,2026,October,10,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5452,37000.00,Verified,Paid
+ORD-1453,2026-07-19,2026,July,7,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5453,38000.00,Verified,Paid
+ORD-1454,2026-06-14,2026,June,6,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5454,39000.00,Verified,Pending
+ORD-1455,2026-08-14,2026,August,8,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5455,40000.00,Verified,Cancelled
+ORD-1456,2026-02-03,2026,February,2,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5456,0.00,"Missing Amount",Paid
+ORD-1457,2026-04-02,2026,April,4,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5457,42000.00,Verified,Paid
+ORD-1458,2026-02-27,2026,February,2,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5458,43000.00,Verified,Pending
+ORD-1459,2026-01-12,2026,January,1,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5459,44000.00,Verified,Cancelled
+ORD-1460,2026-07-05,2026,July,7,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5460,45000.00,Verified,Paid
+ORD-1461,2026-10-19,2026,October,10,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5461,46000.00,Verified,Paid
+ORD-1462,2026-01-04,2026,January,1,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Performance Improvement",Riyadh,PAY-5462,47000.00,Verified,Pending
+ORD-1463,2026-02-11,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5463,48000.00,Verified,Cancelled
+ORD-1464,2026-07-16,2026,July,7,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5464,49000.00,Verified,Paid
+ORD-1465,2026-09-15,2026,September,9,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Dammam,PAY-5465,50000.00,Verified,Paid
+ORD-1466,2026-04-10,2026,April,4,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5466,51000.00,Verified,Pending
+ORD-1467,2026-01-24,2026,January,1,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5467,52000.00,Verified,Cancelled
+ORD-1468,2026-04-29,2026,April,4,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5468,53000.00,Verified,Paid
+ORD-1469,2026-08-10,2026,August,8,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5469,54000.00,Verified,Paid
+ORD-1470,2026-06-02,2026,June,6,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5470,55000.00,Verified,Pending
+ORD-1471,2026-04-07,2026,April,4,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Dammam,PAY-5471,56000.00,Verified,Cancelled
+ORD-1472,2026-01-27,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Khobar,PAY-5472,57000.00,Verified,Paid
+ORD-1473,2026-05-25,2026,May,5,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Unknown,PAY-5473,58000.00,Verified,Paid
+ORD-1474,2026-02-13,2026,February,2,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Riyadh,PAY-5474,59000.00,Verified,Pending
+ORD-1475,2026-03-22,2026,March,3,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Riyadh,PAY-5475,0.00,"Missing Amount",Cancelled
+ORD-1476,2026-10-02,2026,October,10,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Jeddah,PAY-5476,61000.00,Verified,Paid
+ORD-1477,2026-08-20,2026,August,8,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Dammam,PAY-5477,62000.00,Verified,Paid
+ORD-1478,2026-02-03,2026,February,2,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Khobar,PAY-5478,63000.00,Verified,Pending
+ORD-1479,2026-03-14,2026,March,3,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Unknown,PAY-5479,64000.00,Verified,Cancelled
+ORD-1480,2026-09-18,2026,September,9,C01,"Al-Noor Holding",Retail,Ahmed,"Strategy Consulting",Riyadh,PAY-5480,25000.00,Verified,Paid
+ORD-1481,2026-07-07,2026,July,7,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Riyadh,PAY-5481,26000.00,Verified,Paid
+ORD-1482,2026-06-05,2026,June,6,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Jeddah,PAY-5482,27000.00,Verified,Pending
+ORD-1483,2026-08-01,2026,August,8,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Dammam,PAY-5483,28000.00,Verified,Cancelled
+ORD-1484,2026-10-27,2026,October,10,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Khobar,PAY-5484,29000.00,Verified,Paid
+ORD-1485,2026-09-17,2026,September,9,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Unknown,PAY-5485,30000.00,Verified,Paid
+ORD-1486,2026-04-08,2026,April,4,C07,"Arabian Construction",Construction,Ahmed,"Corporate Governance",Riyadh,PAY-5486,31000.00,Verified,Pending
+ORD-1487,2026-01-08,2026,January,1,C08,"Najd Healthcare",Healthcare,Noura,"Performance Improvement",Riyadh,PAY-5487,32000.00,Verified,Cancelled
+ORD-1488,2026-02-17,2026,February,2,C09,"Red Sea Hospitality",Tourism,Sara,"HR Restructuring",Jeddah,PAY-5488,33000.00,Verified,Paid
+ORD-1489,2026-08-01,2026,August,8,C10,"Qassim Agri-Business",Agriculture,Khaled,"Family Business Advisory",Dammam,PAY-5489,34000.00,Verified,Paid
+ORD-1490,2026-01-22,2026,January,1,C11,"Al-Madinah Industries",Manufacturing,Noura,"Strategy Consulting",Khobar,PAY-5490,35000.00,Verified,Pending
+ORD-1491,2026-03-12,2026,March,3,C12,"Asir Development Co","Real Estate",Ahmed,"Corporate Governance",Unknown,PAY-5491,36000.00,Verified,Cancelled
+ORD-1492,2026-10-14,2026,October,10,C13,"Kingdom Financial Services",Finance,Noura,"Performance Improvement",Riyadh,PAY-5492,37000.00,Verified,Paid
+ORD-1493,2026-01-21,2026,January,1,C14,"Tabuk Renewable Energy",Energy,Sara,"HR Restructuring",Riyadh,PAY-5493,38000.00,Verified,Paid
+ORD-1494,2026-05-24,2026,May,5,C15,"Jeddah Maritime Ports",Logistics,Khaled,"Family Business Advisory",Jeddah,PAY-5494,0.00,"Missing Amount",Pending
+ORD-1495,2026-02-24,2026,February,2,C99,"Unregistered Client (Audit Needed)",Unclassified,Unassigned,"Strategy Consulting",Dammam,PAY-5495,40000.00,Verified,Cancelled
+ORD-1496,2026-05-22,2026,May,5,C02,"Saudi Tech Solutions",Technology,Sara,"Corporate Governance",Khobar,PAY-5496,41000.00,Verified,Paid
+ORD-1497,2026-09-04,2026,September,9,C03,"Gulf Logistics Group",Logistics,Khaled,"Performance Improvement",Unknown,PAY-5497,42000.00,Verified,Paid
+ORD-1498,2026-07-26,2026,July,7,C04,"Riyadh Real Estate","Real Estate",Ahmed,"HR Restructuring",Riyadh,PAY-5498,43000.00,Verified,Pending
+ORD-1499,2026-10-20,2026,October,10,C05,"Eastern Energy Co",Energy,Sara,"Family Business Advisory",Riyadh,PAY-5499,44000.00,Verified,Cancelled
+ORD-1500,2026-09-03,2026,September,9,C06,"Modern Foods Family Group",FMCG,Khaled,"Strategy Consulting",Jeddah,PAY-5500,45000.00,Verified,Paid
