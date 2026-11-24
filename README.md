@@ -16,10 +16,11 @@ This project simulates a real-world business data workflow where fragmented data
 2. **Orphan Records:** Detected **15 orders** linked to unregistered client IDs (C99); retained financial records for accuracy while flagging them as Audit Needed.
 3. **Date & Text Standardization:** Unified mixed date formats (DD/MM/YYYY, YYYY/MM/DD) into ISO format (YYYY-MM-DD) and standardized inconsistent city/status casing.
 4. **Missing Values:** Handled NULL payment amounts by assigning an explicit Missing Amount audit flag rather than silently dropping records.
+   
+## Dashboard Preview
 
+<img width="1197" height="672" alt="dashboard_overview" src="https://github.com/user-attachments/assets/a04d3cb7-1b19-4ebb-a67c-d264269a6252" />
 
-
- 
 
 #### Repository Structure
 
