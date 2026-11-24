@@ -17,7 +17,7 @@ This project simulates a real-world business data workflow where fragmented data
 3. **Date & Text Standardization:** Unified mixed date formats (DD/MM/YYYY, YYYY/MM/DD) into ISO format (YYYY-MM-DD) and standardized inconsistent city/status casing.
 4. **Missing Values:** Handled NULL payment amounts by assigning an explicit Missing Amount audit flag rather than silently dropping records.
 
-#### Dashboard Preview
+
 
  
 
